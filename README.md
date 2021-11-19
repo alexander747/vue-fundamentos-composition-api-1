@@ -1,4 +1,4 @@
-# 08-compo-api
+# fundamentos composition api vue
 
 ## Project setup
 ```
